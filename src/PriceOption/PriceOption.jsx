@@ -6,7 +6,7 @@ const PriceOption = ({priceOption}) => {
     
 
     const {category, description, price, features} = priceOption;
-    console.log(features);
+    
 
     return (
         <div>
